@@ -22,7 +22,7 @@
 <div class="header">
   <h1>Sample Java Webapp</h1>
   <p>Hello Ives Welcome to jenkins pipeline with normal font size on banner: Thanks so much Teacher
-   Test Poll SCM
+   :Test Poll SCM
 </p>
 </div>
 </body>
