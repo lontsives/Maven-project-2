@@ -14,14 +14,14 @@
 }
 /* Increase the font size of the heading */
 .header h1 {
-  font-size: 40px;
+  font-size: 50px;
 }
 </style>
 </head>
 <body>
 <div class="header">
   <h1>Sample Java Webapp</h1>
-  <p>Hello Ives Welcome to jenkins pipeline!!!!</p>
+  <p>Hello Ives Welcome to jenkins pipeline!!!! with bigger font size</p>
 </div>
 </body>
 </html>
